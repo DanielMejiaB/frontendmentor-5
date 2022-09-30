@@ -32,7 +32,7 @@ body {
 
 .card__group {
     display: flex;
-    border-radius: .8rem;
+    margin-top: 3.2rem;
 }
 
 .card {
@@ -131,7 +131,6 @@ body {
 
     .card__group {
         flex-direction: column;
-        margin-top: 3.2rem;
     }
 
     .card {
